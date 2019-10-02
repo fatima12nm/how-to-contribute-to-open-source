@@ -21,9 +21,9 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-Esta es una lista de recursos para personas que se inician en la colaboración de proyectos de código abierto.
+Esta es una lista de recursos para personas que estan iniciando en la colaboración de proyectos de código abierto.
 
-Si encuetras recursos adicionales, por favor contribuye con una `pull request` a este repositorio.
+Si encuentras recursos adicionales, por favor contribuye con una `pull request` a este repositorio.
 
 Si tienes alguna pregunta o comentario, por favor crea un `issue` en este repositorio.
 
@@ -39,12 +39,12 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 
 ## Contribuyendo al código abierto en general
 - [Guía definitiva para contribuir al código abierto](https://medium.freecodecamp.org/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282) por [@DoomHammerNG](https://twitter.com/DoomHammerNG)
-- [Una introducción al código abierto](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriales hechos por DigitalOcean para guiarte de manera exitosa en tu camino cómo colaborador en GitHub.
+- [Una introducción al código abierto](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutoriales hechos por DigitalOcean para guiarte de manera exitosa en tu camino como colaborador en GitHub.
 - [Issuehub.io](http://issuehub.io/) - Buscador de `issues` en GitHub las cuáles puedes filtrar por tipo y lenguaje.
 - [Code Triage](https://www.codetriage.com/) - Otro muy buen buscador de repositorios e `issues` filtradas por lenguaje de programación.
 - [Awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - Repositorio de GitHub que acumula proyectos con issues fáciles y etiquetados para colaboradores recien iniciados.
-- [Guías de código abierto](https://opensource.guide/) - Colección de recursos para particulares, comunidades y empresas que quieren aprender cómo iniciar y contribuir en proyectos de código abierto.
-- [45 pros y contras creando issues en Github](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Pros y Contras creando `issues` en GitHub.
+- [Guías de código abierto](https://opensource.guide/) - Colección de recursos para particulares, comunidades y empresas que quieren aprender e iniciar a contribuir en proyectos de código abierto.
+- [45 pros y contras creando issues en Github](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - Pros y Contras de crear `issues` en GitHub.
 - [Guías de GitHub](https://guides.github.com/) - Guía básica de cómo usar GitHub de manera efectiva.
 - [Contribuir al código abierto](https://github.com/danthareja/contribute-to-open-source) - Aprender el flujo de trabajo en GitHub colaborando en un proyecto de prueba.
 - [Guías de código abierto de la Fundación Linux para la empresa](https://www.linuxfoundation.org/resources/open-source-guides/) - Guía de la Fundación Linux para proyectos de código abierto.
@@ -52,7 +52,7 @@ Si tienes alguna pregunta o comentario, por favor crea un `issue` en este reposi
 - [Recursos de la A a la Z para estudiantes](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Lista precisa de recursos y oportunidades para estudiantes que quieran aprender un nuevo lenguaje de programación.
 - [Contribuyendo en tu primer proyecto de código abierto: Un acercamiento práctico.](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae) - Un acercamiento paso a paso para contribuir en tu primero proyecto de código abierto por [Abati Adewale](https://www.acekyd.com).
 - [Ruleta Pull Request](http://www.pullrequestroulette.com/) - Este sitio tiene una lista de `pull requests` enviadas para ser revisadas y que pertenecen a proyectos alojados en GitHub.
-- ["Cómo contribuir a un proyecto de código abierto en GitHub" por Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Una videoguía paso a paso de cómo empezar a contribuir en un proyecto de código abierto en GitHub.
+- ["Cómo contribuir a un proyecto de código abierto en GitHub" por Egghead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Una videoguía paso a paso de como empezar a contribuir en un proyecto de código abierto en GitHub.
 
 ## Búsquedas directas en GitHub
 Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHub.
@@ -90,7 +90,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 
 ## Usando control de versiones
 - [Piensa como (un) Git](http://think-like-a-git.net/) - Introducción de Git para "principiantes avanzados" pero aún esforzándose, con el fin de darte una estrategía simple para experimentar con git de manera fiable.
-- [Try Git](https://try.github.io/) - Aprender Git en 15 minutos desde tu navegador.
+- [Try Git](https://try.github.io/) - Aprende Git en 15 minutos desde tu navegador.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - Un pequeño conjunto de comandos útiles para tu día a día.
 - [Oh shit, git!](http://ohshitgit.com/) - Cómo resolver errores comunes de git descritos de manera simple.
 - [Tutoriales de Git por Atlassian](https://www.atlassian.com/git/tutorials/) - Varios tutoriales usando `git` hechos por Atlassian.
@@ -113,7 +113,7 @@ Lista de enlaces convenientes para principiantes que apuntan a `issues` en GitHu
 
 ## Iniciativas de contribución de Código abierto
 - [Up For Grabs](http://up-for-grabs.net/#/) - Contiene proyectos con cuestiones accesibles para principiantes.
-- [First Timers Only](http://www.firsttimersonly.com/) - Una lsta de errores etiquetados cómo 'first-timers-only' (solo para primerizos).
+- [First Timers Only](http://www.firsttimersonly.com/) - Una lista de errores etiquetados cómo 'first-timers-only' (solo para primerizos).
 - [First Contributions](https://firstcontributions.github.io/) - Haz tu primera contribución al código abierto en 5 minutos.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Una herramienta que anima a la contribución de código abierto. Gana regalos cómo camisetas y pegatinas haciendo al menos 5 `pull requests` durante el mes de Octubre.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests es un proyecto que promueve la colaboración de código abierto durante el mes de Diciembre.
